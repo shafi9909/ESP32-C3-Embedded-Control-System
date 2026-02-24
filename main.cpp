@@ -1,11 +1,16 @@
 /* 
-ESP32-C3 Embedded Control System
+Author: Mohammad Shafi Amiri
+Project: ESP32-C3 Embedded Control System
+Description:
+Traffic light logic, ADC sensor processing,
+ultrasonic distance measurement and PWM dimming.
 Kombination aus:
 - Ampelsteuerung
 - Potentiometer-Auswertung
 - Ultraschallsensor
 - PWM-Dimmung
 */
+
 
 // =====================
 // PIN-DEFINITION
